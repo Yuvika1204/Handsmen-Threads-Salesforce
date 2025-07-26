@@ -87,7 +87,7 @@ HandsMen Threads is implementing Salesforce to **centralize data**, **automate w
 
 ## 🔗 Project Links
 
-* 🎥 **Demo Video**: [Click to Watch](https://drive.google.com/uc?id=1oSTJ9ORNlEQvvSolORM67PY29gvpjxW9&export=download)
+* 🎥 **Demo Video**: [Click to Watch](https://drive.google.com/file/d/1fqPWeCgAw6WjRjGpv-KjUuV46OhrQq0j/view?usp=drive_link)
 
 ---
 
